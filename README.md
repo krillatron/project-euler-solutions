@@ -1,2 +1,9 @@
 # project-euler-solutions
-Ruby solutions to Euler problems.
+Attempting to create Ruby solutions to Project Euler problems
+
+https://projecteuler.net/archives
+
+```
+bundle install
+bundle exec rspec
+```
