@@ -7,3 +7,5 @@ https://projecteuler.net/archives
 bundle install
 bundle exec rspec
 ```
+
+Project format + tests based on https://github.com/learn-co-students projects
